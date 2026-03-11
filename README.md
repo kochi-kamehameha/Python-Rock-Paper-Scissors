@@ -166,22 +166,3 @@ The computer randomly selects a move each round.
 ```
 random.choice(MOVES)
 ```
-
----
-
-# 🚀 Possible Improvements
-
-Ideas to expand the game:
-
-- Best-of-3 or best-of-5 mode
-- Difficulty levels
-- ASCII animations
-- Multiplayer mode
-- GUI version using **Tkinter** or **Pygame**
-- Persistent score tracking
-
----
-
-# 📜 License
-
-Free to use and modify for learning or personal projects.
